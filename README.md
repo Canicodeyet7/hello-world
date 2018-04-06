@@ -1,2 +1,3 @@
 # hello-world
 My second experience with Hello-world. I have just clicked on the + symbol on the top right of https://guides.github.com/activities/hello-world/ this window. I then created a New Repository. I have now named it hello-world. I am finishing this sentence.
+I like to learn about things that I find pertinent to making a lasting positive change. This is one of those things. At this point I understand that I have created a repository. I named it hello-world. I then created a Branch from this original repository and named it README. It appears to be formatted as README.md. I then added a description which seems to be displayed above. Now I have finished creating an edit to that Branch inside of the Master Respository. I will now commit the changes.
